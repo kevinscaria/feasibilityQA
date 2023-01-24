@@ -1,0 +1,75 @@
+A century has 100 years
+A decade has 10 years
+January has 31 days
+A week has 7 days
+A week has 5 working days
+A day has 24 hours
+An hour has 60 minutes
+A minutes has 60 seconds
+
+A deck of cards has 52 cards
+A deck of cards has 26 red and 26 black cards
+A deck of cards has 12 face cards
+A deck of cards has 4 suits
+A deck of cards has 2 colors
+
+A die has 6 faces
+A regular die has values in the range 1 to 6
+
+A human has 2 eyes
+A human has 2 ears
+A human has 2 hands
+A human has 2 arms
+A human has 2 legs
+A human has 4 fingers and a thumb in a hand
+A human body has 206 bones
+
+
+100 cents constitute 1 dollar
+10 cents constitute 1 dime
+10 dimes constitue 1 dollar
+25 cents constitute 1 quarter
+4 quarters constitute 1 dollar
+
+A bike has 2 tires
+A car has 4 wheels
+
+
+A triangle has 3 sides
+A square has 4 equal sides
+A rectangle has 4 sides
+A pentagon has 5 sides
+A hexagon has 6 sides
+
+A chess board has 64 squares
+A chess board has 32 black and 32 white squares
+A chess game has 16 total pawns
+A chess game has 8 black and 8 white pawns
+A chess game has 4 knights
+A chess game has 2 black and 2 white knights
+A chess game has 4 bishops
+A chess game has 2 black and 2 white bishops
+A chess game has 4 rooks
+A chess game has 2 black and 2 white rooks
+
+
+A bunch has 12 items
+There are 7 continents in the world
+Rainbow has 7 colors
+3 medals are given to the winner in olympics
+
+There are 26 letters in the english alphabet
+There are 5 vowels in the english alphabet
+There are 21 consonants in the english alphabet
+
+A team has 11 players in the game of soccer
+A team has 10 players excluding goalkeeper in the game of soccer
+2 teams play a game of soccer
+
+Octopus has 8 legs
+Spiders have 8 legs
+
+
+
+A pair of shoes has 2 shoes
+Ozone is a gas that is formed in the atmosphere when 3 atoms of oxygen combine.

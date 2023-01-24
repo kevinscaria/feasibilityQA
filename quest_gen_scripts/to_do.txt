@@ -1,0 +1,69 @@
+"context": "{name} bought a {value} minute hourglass  table recently to use it while studying. Today morning, he sat down to study and started the hour glass sometime back.".format(name = name, value = value, country=country),
+"knowledge":" Time passed should be less before all the sand fell into the bottom half.",
+"question":" How many minutes might have passed before all the sand fell into the bottom half of the hour glass?".format(name=name, value=value),
+
+
+"context": "The President has announced severance packages for the citizens who are unemployed due to COVID-19 in the Unites States.".format(name = name, value = value, country=country),
+"knowledge":" There are 50 states in the USA.",
+"question":" In how many states does this severance package has been issued to the citizens?".format(name=name, value=value),
+
+
+	"context": "{name} had bought a phone two months back for USD {value} . Today phone screen was broken when it fell from {name} 's hand.".format(name = name, value = value, country=country),
+	"knowledge":" The constituent elements of an item can not be costlier than the item.",
+	"question":" What could be the cost to replace the broken screen?".format(name=name, value=value),
+
+
+	"context": "{name} has bought a TV for {value} USD recently.While playing with the dog , {name} has dropped the TV remote and broken it".format(name = name, value = value, country=country),
+	"knowledge":" The constituent elements of an item can not be costlier than the item.",
+	"question":" What can be cost to buy a new TV remote?".format(name=name, value=value),
+
+	"context": "{name} and Alex started from their corresponding homes at the same time to meet at a restaurant, which is at an equal distance from both houses. {name} is driving faster than Alex.".format(name = name, value = value, country=country),
+	"knowledge":" Slower vehicle cannot reach the destination before the faster vehicle",
+	"question":" If {name} reaches the restaurant in {value} min, how much time would it take for Alex to reach the restaurant?".format(name=name, value=value),
+
+
+more than half
+
+"$1 and $2 do a work in $3 days. What number of days will $2 take to do that work alone ?"
+
+        template1= "First floor of a building is at $1 feet height from ground. What can be the height of second floor from ground ?"
+
+
+The retail rate of 1 kg sugar is $ $1. What is its whole sale rate in $?
+
+        template1= "Length of a bridge is $1 feet. What can be the length of a overbridge ?"
+
+        template1= "A student failed in one subject. The maximum mark of that subject is $1. What mark had that student secured ?"
+        template1= "The monthly salary of a clerk in a office is  $ $1. What is the monthly salary of it's officer ?"
+
+        template1= "A child uses $1 gms rice for it's daily meal. What amount can its father use for the same purpose ?"
+
+        template1= "A young man picks a substance of $1 kg weight. How much weight can a weaker oldman pick ?"
+
+        template1= "In a school, teaching time is $1 hours. What is the time duration of teaching in a play school ?"
+
+        template1= "The height of a chinarose tree is $1 feet. What is the possible height of a mango tree ?"
+
+        template1= "The age of $1 is $2 years. What is the age of $1's grandmother ?"
+
+        template1= "Total money of $1 and $2 is $$3. Money of $1 is less than that of $2. Howmuch money has $2?"
+
+
+
+
+template1= "A handbag contains $1 clothes. What number of clothes can a luggage bag contain ?"
+
+template1= "$1 chocolates are placed in one shirt pocket. How many maximum chocolates can be placed in one selling packet ?"
+
+                "context": "The {country} brewing company is well known for its witbier by fermenting them in aged barrels. It is known that the {country} company can serve for a week with {value} barrels.".format(name = name, value = value, country=country),
+                "knowledge": "More barrels are needed to accommodate more number of days.",
+                "question": "How many barrels would be needed by Tempe company to server the town for 8 days?".format(name=name),
+
+
+
+
+animals have _ legs
+a day has 24 hours
+rolled two regular dice. what is the possible output
+clock rings every 4 hours
+
